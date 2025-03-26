@@ -35,7 +35,7 @@ body {
     font-family: "Gill Sans", sans-serif;
     color: #bbd9e7;
     font-size: 24px;
-    text-align: justify;
+    text-align: center;
 }
 main {
     padding: 30px;
@@ -173,6 +173,8 @@ button:hover {
 footer {
     background-color: #2C3E50;
     color: #ECF0F1;
+    max-width: 990px;
+    justify-content: center;
     padding: 20px 0;
     text-align: center;
     font-family: "fantasy", serif;
