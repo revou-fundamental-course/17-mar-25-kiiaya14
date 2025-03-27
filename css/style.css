@@ -54,7 +54,7 @@ main {
     max-width: 70%;
 }
 .welcome-text h1 {
-    font-family: "Gill Sans", sans-serif;
+    font-family: "Acme", serif;
     color: #2b64a0;
     font-size: 32px;
     padding-bottom: 10px;
