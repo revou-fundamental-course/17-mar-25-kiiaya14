@@ -82,8 +82,8 @@ main {
     border-radius: 16px;
 }
 .nav-fitur summary:hover {
-    color: #ecec2f;
-    background-color: #ecec2f;
+    color: #bbd9e7;
+    background-color: #d8d84e;
     transform: scale(1.05);
     z-index: 1;
 }
@@ -175,21 +175,21 @@ button {
     font-size: 18px;
 }
 button:hover {
-    color: #fff6ef;
-    background-color: #ecec2f;
+    color: #5c9bc9;
+    background-color: #d8d84e;
     transform: scale(1.05);
 }
 .hitung {
     margin-left: 10px;
 }
 .reset-btn {
-    color: #fff6ef;
-    background-color: #ecec2f;
+    color: #5c9bc9;
+    background-color: #d8d84e;
     margin-top: 10px;
 }
 footer {
+    color: #d8d84e;
     background-color: #5c9bc9;
-    color: #ECF0F1;
     max-width: 990 px;
     justify-content: center;
     padding: 20px 0;
