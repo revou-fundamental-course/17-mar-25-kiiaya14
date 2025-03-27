@@ -82,7 +82,7 @@ main {
     border-radius: 16px;
 }
 .nav-fitur summary:hover {
-    color: #bbd9e7;
+    color: #fffcef;
     background-color: #d8d84e;
     transform: scale(1.05);
     z-index: 1;
@@ -188,8 +188,8 @@ button:hover {
     margin-top: 10px;
 }
 footer {
-    color: #fffcef;
     background-color: #5c9bc9;
+    color: #fffcef;
     max-width: 990 px;
     justify-content: center;
     padding: 20px 0;
