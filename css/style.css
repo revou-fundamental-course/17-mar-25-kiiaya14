@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Acme&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Quicksand:wght@300..700&display=swap');
 * {
     margin: 0;
     padding: 0;
@@ -66,7 +66,7 @@ main {
     flex-direction: column;
 }
 .nav-fitur summary {
-    font-family: "Acme", serif;
+    font-family: "Quicksand", serif;
     color: #fffcef;
     background-color: #2b64a0;
     margin: 15px auto 5px;
@@ -128,7 +128,7 @@ section {
     margin-right: auto;
 }
 .calculate-content h2 {
-    font-family: "Acme", serif;
+    font-family: "Quicksand", serif;
     padding-bottom: 20px;
 }
 .calculate-content p {
@@ -185,19 +185,7 @@ footer {
     padding: 20px 0;
     text-align: center;
     font-family: "Acme", serif;
-}
-  
-footer a {
-    color: #68d4c6;
-    text-decoration: none;
-    font-weight: 500;
-}
-  
-footer a:hover {
-    color: #d2e6a7;
-    text-decoration: underline;
-}
-  
+} 
 footer p {
     margin: 5px 0;
     font-size: 14px;
