@@ -53,19 +53,13 @@ main {
     padding: 20px 0;
     max-width: 70%;
 }
-.welcome-text h1 {
-    font-family: "Acme", serif;
-    color: #2b64a0;
-    font-size: 32px;
-    padding-bottom: 10px;
-}
 .container-text {
     padding: 10px;
 }
 .container-text h1 {
-    font-family: "Acme", serif;
+    font-family: "Gill Sans", serif;
     color: #2b64a0;
-    font-size: 20px;
+    font-size: 24px;
 }
 .nav-fitur {
     display: flex;
@@ -134,7 +128,7 @@ section {
     margin-right: auto;
 }
 .calculate-content h2 {
-    font-family: "Gill Sans", sans-serif;
+    font-family: "Gill Sans", serif;
     padding-bottom: 20px;
 }
 .calculate-content p {
@@ -143,7 +137,7 @@ section {
     padding-top: 10px;
 }
 section h1 {
-    font-family: "Gill Sans", sans-serif;
+    font-family: "Gill Sans", serif;
     color: #2b64a0;
     font-size: 26px;
     padding-bottom: 10px;
