@@ -76,7 +76,7 @@ main {
     border-radius: 16px;
 }
 .nav-fitur summary:hover {
-    color: #fffcef;
+    color: #ecec2f;
     background-color: #ecec2f;
     transform: scale(1.05);
     z-index: 1;
@@ -111,10 +111,9 @@ section {
     margin: 20px;
 }
 .rumus {
-    font-family: "Quicksand", serif;
     padding: 10px;
 }
-.rumus h2 {
+.rumus h1 {
     font-family: "Quicksand", serif;
     font-size: 26px;
 }
@@ -170,6 +169,8 @@ button {
     font-size: 18px;
 }
 button:hover {
+    color: #ecec2f;
+    background-color: #ecec2f;
     transform: scale(1.05);
 }
 .hitung {
@@ -177,7 +178,7 @@ button:hover {
 }
 .reset-btn {
     color: #fff6ef;
-    background-color: #5c9bc9;
+    background-color: #ecec2f;
     margin-top: 10px;
 }
 footer {
