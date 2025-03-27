@@ -62,7 +62,7 @@ main {
     padding: 10px;
 }
 .container-text p {
-    font-family: "fantasy", serif;
+    font-family: "Acme", serif;
     color: #2b64a0;
     font-size: 20px;
 }
@@ -71,7 +71,7 @@ main {
     flex-direction: column;
 }
 .nav-fitur summary {
-    font-family: "fantasy", serif;
+    font-family: "Acme", serif;
     color: #fffcef;
     background-color: #2b64a0;
     margin: 15px auto 5px;
@@ -92,12 +92,18 @@ main {
     margin: 0 auto;
     border-radius: 20px;
 }
+#persegi-panjang {
+        background-color: #bbd9e7;
+        max-width: 700px;
+        margin: 0 auto;
+        border-radius: 20px;
+}
 section {
     padding: 0 16px;
 }
 .kotakin {
     color: #2b64a0;
-    font-family: "fantasy", serif;
+    font-family: "Acme", serif;
     background-color: #ffffff;
     border: 5px solid;
     border-radius: 16px;
@@ -125,7 +131,7 @@ section {
     padding-bottom: 20px;
 }
 .calculate-content p {
-    font-family: "fantasy", serif;
+    font-family: "Acme", serif;
     font-size: 16px;
     padding-top: 10px;
 }
@@ -137,7 +143,7 @@ section h1 {
 }
 input {
     color: #2b64a0;
-    font-family: "fantasy", serif;
+    font-family: "Acme", serif;
     font-size: 22px;
     text-align: center;
     margin: 5px;
@@ -152,10 +158,10 @@ input {
     margin-top: 15px;
 }
 button {
-    color: #687fe8;
-    background-color: #ebe995;
+    color: #fff6ef;
+    background-color: #5c9bc9;
     text-align: center;
-    font-family: "fantasy", serif;
+    font-family: "Acme", serif;
     padding: 8px;
     font-size: 18px;
 }
@@ -167,17 +173,17 @@ button:hover {
 }
 .reset-btn {
     color: #fff6ef;
-    background-color: #943131;
+    background-color: #5c9bc9;
     margin-top: 10px;
 }
 footer {
-    background-color: #2C3E50;
+    background-color: #5c9bc9;
     color: #ECF0F1;
     max-width: 990 px;
     justify-content: center;
     padding: 20px 0;
     text-align: center;
-    font-family: "fantasy", serif;
+    font-family: "Acme", serif;
 }
   
 footer a {
