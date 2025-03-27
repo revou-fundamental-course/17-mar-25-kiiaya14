@@ -93,10 +93,10 @@ main {
     border-radius: 20px;
 }
 #persegi-panjang {
-        background-color: #bbd9e7;
-        max-width: 700px;
-        margin: 0 auto;
-        border-radius: 20px;
+    background-color: #bbd9e7;
+    max-width: 700px;
+    margin: 0 auto;
+    border-radius: 20px;
 }
 section {
     padding: 0 16px;
@@ -107,6 +107,7 @@ section {
     background-color: #ffffff;
     border: 5px solid;
     border-radius: 16px;
+    border: 5px solid;
     padding: 20px;
     margin: 20px;
 }
@@ -120,6 +121,7 @@ section {
     font-size: 18px;
 }
 .calculate-content {
+    background-color: white;
     border: 3px solid;
     border-radius: 20px;
     padding: 20px;
