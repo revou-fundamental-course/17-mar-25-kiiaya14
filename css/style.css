@@ -175,20 +175,20 @@ button {
     font-size: 18px;
 }
 button:hover {
-    color: #5c9bc9;
-    background-color: #d8d84e;
+    color: #fffcef;
+    background-color: #5c9bc9;
     transform: scale(1.05);
 }
 .hitung {
     margin-left: 10px;
 }
 .reset-btn {
-    color: #5c9bc9;
-    background-color: #d8d84e;
+    color: #fffcef;
+    background-color: #5c9bc9;
     margin-top: 10px;
 }
 footer {
-    color: #d8d84e;
+    color: #fffcef;
     background-color: #5c9bc9;
     max-width: 990 px;
     justify-content: center;
