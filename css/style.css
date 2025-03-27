@@ -17,7 +17,7 @@ body {
     background-repeat: repeat;
 }
 .wrapper {
-    background-color: cadetblue;
+    background-color: rgb(95, 131, 160);
     width: 100%;
     max-width: 990px;
     margin-left: auto;
@@ -35,7 +35,7 @@ body {
     font-family: "Gill Sans", sans-serif;
     color: #bbd9e7;
     font-size: 24px;
-    text-align: center;
+    text-align: justify;
 }
 main {
     padding: 30px;
@@ -173,7 +173,7 @@ button:hover {
 footer {
     background-color: #2C3E50;
     color: #ECF0F1;
-    max-width: 990px;
+    max-width: 990 px;
     justify-content: center;
     padding: 20px 0;
     text-align: center;
