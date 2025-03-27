@@ -62,8 +62,8 @@ main {
 .container-text {
     padding: 10px;
 }
-.container-text p {
-    font-family: "Gill Sans", sans-serif;
+.container-text h1 {
+    font-family: "Acme", serif;
     color: #2b64a0;
     font-size: 20px;
 }
