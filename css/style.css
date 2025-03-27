@@ -82,12 +82,13 @@ main {
     border-radius: 16px;
 }
 .nav-fitur summary:hover {
-    color: #fffcef;
+    color: rgb(95, 131, 160);
     background-color: #bbd9e7;
     transform: scale(1.05);
     z-index: 1;
 }
 #persegi {
+    color: #5c9bc9;
     background-color: #bbd9e7;
     max-width: 700px;
     margin: 0 auto;
@@ -96,6 +97,7 @@ main {
     padding: 20px;
 }
 #persegi-panjang {
+    color: #5c9bc9;
     background-color: #bbd9e7;
     max-width: 700px;
     margin: 0 auto;
@@ -120,10 +122,12 @@ section {
     padding: 10px;
 }
 .rumus h1 {
+    color: #5c9bc9;
     font-family: "Quicksand", serif;
     font-size: 26px;
 }
 .rumus p {
+    color: #5c9bc9;
     font-family: "Quicksand", serif;
     font-size: 18px;
 }
