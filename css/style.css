@@ -175,7 +175,7 @@ button {
     font-size: 18px;
 }
 button:hover {
-    color: #ecec2f;
+    color: #fff6ef;
     background-color: #ecec2f;
     transform: scale(1.05);
 }
