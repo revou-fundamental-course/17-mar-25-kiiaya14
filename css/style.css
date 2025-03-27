@@ -54,12 +54,18 @@ main {
     max-width: 70%;
 }
 .container-text {
+    font-family: "Quicksand", serif;
     padding: 10px;
+}
+.container-text p {
+    font-family: "Quicksand", serif;
+    color: #2b64a0;
+    font-size: 18px;
 }
 .container-text h1 {
     font-family: "Acme", serif;
     color: #2b64a0;
-    font-size: 26px;
+    font-size: 30px;
 }
 .nav-fitur {
     display: flex;
@@ -102,7 +108,7 @@ section {
 }
 .kotakin {
     color: #2b64a0;
-    font-family: "Acme", serif;
+    font-family: "Quicksand", serif;
     background-color: #ffffff;
     border: 5px solid;
     border-radius: 16px;
