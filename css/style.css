@@ -74,7 +74,7 @@ main {
 .nav-fitur summary {
     font-family: "Quicksand", serif;
     color: #fffcef;
-    background-color: #2b64a0;
+    background-color: #5c9bc9;
     margin: 15px auto 5px;
     padding: 16px 0;
     width: 50%;
@@ -83,7 +83,7 @@ main {
 }
 .nav-fitur summary:hover {
     color: #fffcef;
-    background-color: #d8d84e;
+    background-color: #bbd9e7;
     transform: scale(1.05);
     z-index: 1;
 }
